@@ -15,7 +15,7 @@ function preload(){
   
   
 
-  bananaImage = loadImage("Banana.png");
+  bananaImage = loadImage("banana.png");
   obstacle_img = loadImage("stone.png"); 
   //dead = loadImage("dead_monkey.PNG");
   
